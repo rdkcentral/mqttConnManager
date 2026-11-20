@@ -1,10 +1,16 @@
-# mqttConnManager
-[![Build Status](https://github.com/xmidt-org/mqttConnManager/workflows/CI/badge.svg)](https://github.com/xmidt-org/mqttConnManager/actions)
-[![codecov.io](http://codecov.io/github/xmidt-org/mqttConnManager/coverage.svg?branch=main)](http://codecov.io/github/xmidt-org/mqttConnManager?branch=main)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=xmidt-org_mqttConnManager&metric=alert_status)](https://sonarcloud.io/dashboard?id=xmidt-org_mqttConnManager)
-[![Apache V2 License](http://img.shields.io/badge/license-Apache%20V2-blue.svg)](https://github.com/xmidt-org/mqttConnManager/blob/main/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/xmidt-org/mqttConnManager.svg)](CHANGELOG.md)
+[![Apache V2 License](http://img.shields.io/badge/license-Apache%20V2-blue.svg)](LICENSE)
 
+## Origin
+
+This repository is based on the original
+[mqttConnManager](https://github.com/xmidt-org/mqttConnManager) source code
+maintained under the xmidt-org organization. The code was copied into the
+rdkcentral organization, where ongoing maintenance and development now take place.
+
+- Original project: https://github.com/xmidt-org/mqttConnManager
+- Current repository: https://github.com/rdkcentral/mqttConnManager
+
+# mqttConnManager
 
 # Building and Testing Instructions
 
